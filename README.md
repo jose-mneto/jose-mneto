@@ -17,7 +17,7 @@
 ### Me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://https://www.facebook.com/neto.skaterockk/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nettoxfication/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="joseneto7107" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "oliveira_neto@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
