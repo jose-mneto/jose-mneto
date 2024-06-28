@@ -14,7 +14,7 @@
  
 <br>
  
-### Me segue a gente nas redes abaixo!
+### Me segue aí nas redes abaixo!
  
 <div> 
   <a href="https://www.facebook.com/?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
