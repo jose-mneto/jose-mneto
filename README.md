@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao meu perfil! 😁
-Sou José Neto!
-Um apaixonado pela tecnologia, sempre tive o sonho de de trabalhar com programação e atualmente comecei a colocar esse sonho em prática estudando e desenvolvendo projetos.
+Olá! Sou uma pessoa apaixonada por tecnologia e inovação. Desde cedo, sempre me interessei por entender como as coisas funcionam por trás dos dispositivos e softwares que usamos no dia a dia. Essa paixão me levou a mergulhar no universo da programação, onde encontro uma infinidade de possibilidades para criar, solucionar problemas e transformar ideias em realidade. Atualmente, estou estudando programação, buscando aprimorar minhas habilidades e explorar novas linguagens e tecnologias. Meu objetivo é contribuir com projetos que façam a diferença e continuar aprendendo cada vez mais nesse mundo fascinante da tecnologia!
 
  <div>
    <a href="https://github.com/jose-mneto">
